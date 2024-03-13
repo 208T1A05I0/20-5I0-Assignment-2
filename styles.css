@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #59CC83;
+}
+
+#container {
+    text-align: center;
+}
+
+#clickme {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #59CC83;
+    color: #000000;
+    border-radius: 10px;
+    border-color: #000000;
+    border-style:double;
+}
+
+p{
+    color: #ffffff;
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight:bold;
+    padding: 15px;
+}
+#colorCode{
+    color: rgb(63, 154, 170);
+}
